@@ -27,16 +27,6 @@
     <artifactId>servlet-api</artifactId>    
     <version>3.0-alpha-1</version>    
 </dependency>  
-<dependency>
-    <groupId>com.oracle.database.jdbc</groupId>
-    <artifactId>ojdbc8</artifactId>
-    <version>21.1.0.0</version>
-    <scope>system</scope>
-    <systemPath>C:\Users\Globalss\Downloads\oraclejdbcdriver\ojdbc8-full/ojdbc.jar</systemPath>
-</dependency>
-
-
-  
   </dependencies>  
  
   <build>  
